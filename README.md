@@ -1,1 +1,0 @@
-# risolutore-sudoku
